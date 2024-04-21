@@ -67,7 +67,7 @@ Item {
         }
 
         Label {
-            text: "<b>" + qsTr("Your system is up to date") + "</b>"
+            text: "<b>" + qsTr("uOS is up to date") + "</b>"
             visible: _listView.count === 0
             Layout.alignment: Qt.AlignHCenter
         }

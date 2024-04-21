@@ -69,7 +69,7 @@ Item {
 
             Button {
                 visible: success
-                text: qsTr("Reboot")
+                text: qsTr("Restart")
                 Layout.fillWidth: true
                 flat: true
                 onClicked: updator.reboot()

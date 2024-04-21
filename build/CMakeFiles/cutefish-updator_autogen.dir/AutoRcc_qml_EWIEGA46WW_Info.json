@@ -1,0 +1,33 @@
+{
+	"BUILD_DIR" : "/home/shanestech/Documents/updator-main/build/cutefish-updator_autogen",
+	"CMAKE_BINARY_DIR" : "/home/shanestech/Documents/updator-main/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/shanestech/Documents/updator-main/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/shanestech/Documents/updator-main",
+	"CMAKE_SOURCE_DIR" : "/home/shanestech/Documents/updator-main",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/home/shanestech/Documents/updator-main/build/cutefish-updator_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/shanestech/Documents/updator-main/UpdatingPage.qml",
+		"/home/shanestech/Documents/updator-main/UpdatePage.qml",
+		"/home/shanestech/Documents/updator-main/HomePage.qml",
+		"/home/shanestech/Documents/updator-main/FinishedPage.qml",
+		"/home/shanestech/Documents/updator-main/main.qml",
+		"/home/shanestech/Documents/updator-main/images/laptop.png",
+		"/home/shanestech/Documents/updator-main/images/done.svg",
+		"/home/shanestech/Documents/updator-main/images/logo.png",
+		"/home/shanestech/Documents/updator-main/images/check_failed.svg"
+	],
+	"LOCK_FILE" : "/home/shanestech/Documents/updator-main/build/CMakeFiles/cutefish-updator_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/shanestech/Documents/updator-main/build/CMakeFiles/cutefish-updator_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/shanestech/Documents/updator-main/qml.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

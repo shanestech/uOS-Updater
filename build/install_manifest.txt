@@ -1,0 +1,5 @@
+/usr/bin/cutefish-updator
+/usr/share/cutefish-updator/translations/en_US.qm
+/usr/share/cutefish-updator/translations/ru_RU.qm
+/usr/share/cutefish-updator/translations/zh_CN.qm
+/usr/share/applications/cutefish-updator.desktop

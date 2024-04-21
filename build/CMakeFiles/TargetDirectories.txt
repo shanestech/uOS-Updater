@@ -1,0 +1,10 @@
+/home/shanestech/Documents/updator-main/build/CMakeFiles/cutefish-updator.dir
+/home/shanestech/Documents/updator-main/build/CMakeFiles/translations.dir
+/home/shanestech/Documents/updator-main/build/CMakeFiles/edit_cache.dir
+/home/shanestech/Documents/updator-main/build/CMakeFiles/rebuild_cache.dir
+/home/shanestech/Documents/updator-main/build/CMakeFiles/list_install_components.dir
+/home/shanestech/Documents/updator-main/build/CMakeFiles/install.dir
+/home/shanestech/Documents/updator-main/build/CMakeFiles/install/local.dir
+/home/shanestech/Documents/updator-main/build/CMakeFiles/install/strip.dir
+/home/shanestech/Documents/updator-main/build/CMakeFiles/cutefish-updator_autogen_timestamp_deps.dir
+/home/shanestech/Documents/updator-main/build/CMakeFiles/cutefish-updator_autogen.dir

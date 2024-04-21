@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+7eaaab2ed045b6462c62c7193b08cf95 /home/shanestech/Documents/updator-main/translations/en_US.ts
+062e000af353b8d1f46ab51743ff92dc /home/shanestech/Documents/updator-main/translations/ru_RU.ts
+2f8517c1cf0e8040a60d19b17cb4551e /home/shanestech/Documents/updator-main/translations/zh_CN.ts
+c44fd8e9542ee969779ff062ca486b2e CMakeFiles/cutefish-updator_autogen
+c44fd8e9542ee969779ff062ca486b2e CMakeFiles/translations
+9862989f36bb71fa0274cb17e8690755 cutefish-updator_autogen/EWIEGA46WW/qrc_qml.cpp
+253d8c60115508d15ff0f3ad4aab8010 cutefish-updator_autogen/timestamp
+f910200cdc3e5aeeb7f3a08303919749 en_US.qm
+6b17d9aa50bd040da64fc3c106ff72c1 ru_RU.qm
+f1d980c1c18abb46a034349d59fe69a1 zh_CN.qm

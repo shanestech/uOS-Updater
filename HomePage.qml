@@ -77,7 +77,7 @@ Item {
         // Error
 
         Label {
-            text: qsTr("Check for update failure")
+            text: qsTr("Failed to Check for Updates")
             Layout.alignment: Qt.AlignHCenter
             color: FishUI.Theme.disabledTextColor
             visible: control.error

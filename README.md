@@ -1,6 +1,6 @@
-# CutefishOS Updator
+# The uOS Updater!
 
-CutefishOS system update tool.
+uOS system update tool.
 
 ## Dependencies
 
